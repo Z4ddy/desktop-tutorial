@@ -10,12 +10,12 @@
 
 			○ Make a change "Edit": This is done locally once a branch has been made. (Demonstrate with open file explorer)
 
-			○ Commit: Save Edit LOCALLY.
+			○ Commit: Save Edit LOCALLY. Name of work done & Details must be filled out.
 
-			○ Push:
+			○ Push: This will save the changes you made locally to github.
 
-			○ Clone:
+			○ Clone: This will make a copy of a repository from github.
 
-			○ Clone vs Fork:
+			○ Clone vs Fork: Fork is used just like clone but focuses on "Pull Requests" to update the main file. Should be used when main file shouldnt be updated too often. 
 
 			○ Administrator tasks: (Merge - Pull Requests -settings) 

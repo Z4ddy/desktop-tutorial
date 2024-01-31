@@ -1,5 +1,11 @@
 # Tutorial for Github.
 
+												Github Desktop Install : desktop.github.com
+
+	- Create an account - Install - Sync with website
+
+												Github Desktop Functons with GIT
+
 	- To demonstrate versioning we will need to go over a hundful of important functions and which ones a user will need to know vs the project manager.
 
 		♦ As we go through the functions we will cross them off and update this document to demonstrate the functionality.
@@ -19,3 +25,11 @@
 			○ Clone vs Fork: Fork is used just like clone but focuses on "Pull Requests" to update the main file. Should be used when main file shouldnt be updated too often. 
 
 			○ Administrator tasks: (Merge - Pull Requests -settings) 
+
+												Future Applications
+	- Projects
+	- Reports
+
+
+
+

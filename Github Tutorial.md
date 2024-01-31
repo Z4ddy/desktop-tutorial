@@ -1,6 +1,6 @@
 # Tutorial for Github.
 
-												Github Desktop Install : desktop.github.com
+												Github Desktop Install : desktop.github.com ------
 
 	- Create an account - Install - Sync with website
 
